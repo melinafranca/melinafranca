@@ -25,9 +25,7 @@ Tenho me dedicado às seguintes áreas:
 - **Especialista em Vigilância e Atenção Básica à Saúde** - Universidade Federal Rural do Rio de Janeiro *(2020 - 2022)*
 - **Medicina Veterinária** - Universidade Federal de Viçosa *(2013 - 2019)*
 
-> 💡 **[Conheça um pouco mais da minha trajetória](https://melinafranca.github.io/meus-certificados/)**
-
----
+- 💡 **[Conheça um pouco mais da minha trajetória](https://melinafranca.github.io/meus-certificados/)**
 
 ---
 
