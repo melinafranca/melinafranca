@@ -4,28 +4,32 @@ Minha especialidade é conectar exigências regulatórias a rotinas práticas, g
 
 Acredito que problemas complexos raramente possuem uma única causa e que a melhor tomada de decisão é aquela baseada em evidências. Os aprendizados que adquiri na área da saúde me fizeram construir soluções tecnológicas mais resilientes, escaláveis e inclusivas. 
 
-Tenho me dedicado às seguintes áreas:
+Tenho me dedicado à:
 
-- ☁️ **Cloud Computing:** Arquitetura e infraestrutura na AWS (EC2, S3, IAM, CloudFormation).
-- 🤖 **Inteligência Artificial Generativa:** Exploração de LLMs, arquiteturas RAG e Amazon Bedrock para a otimização da análise de documentos e processos regulatórios.
-- 📊 **Análise de Dados:** Estruturação e transformação de dados em insights estratégicos para apoiar a tomada de decisão.
+☁️ **Cloud Computing:** Arquitetura e infraestrutura na AWS (EventBridge, EC2, Aurora, IAM, S3, CloudWatch, CloudTrail, KMS, CloudFormation).
+
+🤖 **Inteligência Artificial Generativa:** Exploração de LLMs, arquiteturas RAG e Amazon Bedrock para a otimização da análise de documentos e processos regulatórios.
+
+📊 **Análise de Dados:** Estruturação e transformação de dados em insights estratégicos para apoiar a tomada de decisão.
 
 
 ---
 
+
 ## 🎓 Formação
 
 ### 💻 Tecnologia & Dados
-- **Trilha AWS Developer** - Escola da Nuvem *(Em andamento)*
-- **Análise e Desenvolvimento de Sistemas (ADS)** - Gran Faculdade *(Em andamento)*
+- **Trilha AWS Developer** - Escola da Nuvem *(2026 - Em andamento)*
+- **Análise e Desenvolvimento de Sistemas (ADS)** - Gran Faculdade *(2025 - Em andamento)*
 - **Análise de Dados** - EBAC *(Em andamento)*
 - **AWS re/Start** - Escola da Nuvem *(Set 2025 - Fev 2026)*
+
 
 ### 🔬 Formação Base
 - **Especialista em Vigilância e Atenção Básica à Saúde** - Universidade Federal Rural do Rio de Janeiro *(2020 - 2022)*
 - **Medicina Veterinária** - Universidade Federal de Viçosa *(2013 - 2019)*
 
-- 💡 **[Conheça um pouco mais da minha trajetória](https://melinafranca.github.io/meus-certificados/)**
+💡 **[Conheça um pouco mais da minha trajetória](https://melinafranca.github.io/meus-certificados/)**
 
 ---
 
@@ -37,6 +41,7 @@ Tenho me dedicado às seguintes áreas:
   <a href="https://www.credly.com/earner/earned/badge/70e64631-6f4b-4fd5-924b-82fab4ef6d02" target="_blank"><img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" width="115"></a>
   <a href="https://www.credly.com/earner/earned/badge/dfbd7fa6-1fc2-4daa-a99f-583a5bf12850" target="_blank"><img src="https://images.credly.com/size/340x340/images/52fa067b-fd7b-4083-bd36-b554cd134773/image.png" alt="AWS General Immersion Day" width="115"></a>
 </p>
+
 ---
 
 ## 💻 Projetos Pessoais
