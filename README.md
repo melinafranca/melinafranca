@@ -20,8 +20,8 @@ Tenho me dedicado à:
 
 ### 💻 Tecnologia & Dados
 - **Trilha AWS Developer** - Escola da Nuvem *(2026 - Em andamento)*
-- **Análise e Desenvolvimento de Sistemas (ADS)** - Gran Faculdade *(2025 - Em andamento)*
-- **Análise de Dados** - EBAC *(Em andamento)*
+- **Análise e Desenvolvimento de Sistemas (ADS)** - Gran Faculdade *(2026 - Em andamento)*
+- **Análise de Dados** - EBAC *(2025 - Em andamento)*
 - **AWS re/Start** - Escola da Nuvem *(Set 2025 - Fev 2026)*
 
 
