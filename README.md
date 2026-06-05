@@ -15,6 +15,17 @@ Tenho me dedicado à:
 
 ---
 
+## 🏆 Certificações
+
+<p align="left">
+  <a href="https://www.credly.com/earner/earned/badge/05ecff14-ccc8-46c6-aeea-6fd019413829" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="115"></a>
+  <a href="https://www.credly.com/earner/earned/badge/a0e00d7d-06e7-4d77-ad9e-b6d200022873" target="_blank"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="115"></a>
+  <a href="https://www.credly.com/earner/earned/badge/70e64631-6f4b-4fd5-924b-82fab4ef6d02" target="_blank"><img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" width="115"></a>
+  <a href="https://www.credly.com/earner/earned/badge/dfbd7fa6-1fc2-4daa-a99f-583a5bf12850" target="_blank"><img src="https://images.credly.com/size/340x340/images/52fa067b-fd7b-4083-bd36-b554cd134773/image.png" alt="AWS General Immersion Day" width="115"></a>
+</p>
+
+---
+
 
 ## 🎓 Formação
 
@@ -33,16 +44,6 @@ Tenho me dedicado à:
 
 ---
 
-## 🏆 Certificações
-
-<p align="left">
-  <a href="https://www.credly.com/earner/earned/badge/05ecff14-ccc8-46c6-aeea-6fd019413829" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="115"></a>
-  <a href="https://www.credly.com/earner/earned/badge/a0e00d7d-06e7-4d77-ad9e-b6d200022873" target="_blank"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="115"></a>
-  <a href="https://www.credly.com/earner/earned/badge/70e64631-6f4b-4fd5-924b-82fab4ef6d02" target="_blank"><img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" width="115"></a>
-  <a href="https://www.credly.com/earner/earned/badge/dfbd7fa6-1fc2-4daa-a99f-583a5bf12850" target="_blank"><img src="https://images.credly.com/size/340x340/images/52fa067b-fd7b-4083-bd36-b554cd134773/image.png" alt="AWS General Immersion Day" width="115"></a>
-</p>
-
----
 
 ## 💻 Projetos Pessoais
 
