@@ -15,11 +15,14 @@ Tenho me dedicado à:
 
 ---
 
-## 🏆 Certificações
+## 🏆 Licenças e Certificações
 
 <p align="left">
+  <a href="https://www.credly.com/earner/earned/badge/b716f4f6-33bb-4045-9563-cc57b97841ad" target="_blank"><img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="115"></a>
   <a href="https://www.credly.com/earner/earned/badge/05ecff14-ccc8-46c6-aeea-6fd019413829" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="115"></a>
   <a href="https://www.credly.com/earner/earned/badge/a0e00d7d-06e7-4d77-ad9e-b6d200022873" target="_blank"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="115"></a>
+  <a href="https://www.credly.com/earner/earned/badge/2d0a0064-a764-4d2b-b92b-0b4fc185cc47" target="_blank"><img src="https://images.credly.com/size/340x340/images/9246c572-2b5e-4b3a-9fae-e87b3c1bf681/blob" alt="AWS Cloud Quest: Serverless Developer - Training Badge" width="115"></a>
+  <a href="https://www.credly.com/earner/earned/badge/1c45f797-8c1b-4aed-9584-95805c2b11b8" target="_blank"><img src="https://images.credly.com/size/340x340/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" width="115"></a>
   <a href="https://www.credly.com/earner/earned/badge/70e64631-6f4b-4fd5-924b-82fab4ef6d02" target="_blank"><img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" width="115"></a>
   <a href="https://www.credly.com/earner/earned/badge/dfbd7fa6-1fc2-4daa-a99f-583a5bf12850" target="_blank"><img src="https://images.credly.com/size/340x340/images/52fa067b-fd7b-4083-bd36-b554cd134773/image.png" alt="AWS General Immersion Day" width="115"></a>
 </p>
@@ -30,9 +33,9 @@ Tenho me dedicado à:
 ## 🎓 Formação
 
 ### 💻 Tecnologia & Dados
-- **Trilha AWS Developer** - Escola da Nuvem *(2026 - Em andamento)*
 - **Análise e Desenvolvimento de Sistemas (ADS)** - Gran Faculdade *(2026 - Em andamento)*
 - **Análise de Dados** - EBAC *(2025 - Em andamento)*
+- **Trilha AWS Developer** - Escola da Nuvem *(Maio 2026 - Jul 2026)*
 - **AWS re/Start** - Escola da Nuvem *(Set 2025 - Fev 2026)*
 
 
